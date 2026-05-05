@@ -128,3 +128,12 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = App(root)
     root.mainloop()
+
+    #This project is a Python-based application designed to help schools or student support centers track student visits.
+    #  The system allows staff to add students, log visits, and view visit history using a simple graphical user interface.
+    # Many schools track student visits manually or using spreadsheets, which can lead to disorganization and difficulty retrieving information.
+    #  There is a need for a simple system that allows staff to efficiently log and view student support interactions.
+#---This system provides----
+#A way to add students using an ID and name
+#A way to log visits with a date and reason
+#A display area to view all students and their visit history
